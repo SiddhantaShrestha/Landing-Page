@@ -7,6 +7,7 @@ import featureImage2 from "../images/feature_3.png";
 function Feature() {
   return (
     <div id="features">
+      <h1>Features</h1>
       <div className="a-container">
         <FeatureBox
           image={featureImage}
